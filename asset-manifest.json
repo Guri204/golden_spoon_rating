@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/golden_spoon_rating/static/css/main.d28d8556.css",
+    "main.js": "/golden_spoon_rating/static/js/main.8b8bdd82.js",
+    "index.html": "/golden_spoon_rating/index.html",
+    "main.d28d8556.css.map": "/golden_spoon_rating/static/css/main.d28d8556.css.map",
+    "main.8b8bdd82.js.map": "/golden_spoon_rating/static/js/main.8b8bdd82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d28d8556.css",
+    "static/js/main.8b8bdd82.js"
+  ]
+}
